@@ -1,3 +1,3 @@
-# ADA Informe de Programa que compare el rendimiento
+# ADA Informes
 
-Se presenta una aplicación de escritorio desarrollada en Python con tkinter y matplotlib para comparar el rendimiento de algoritmos. La herramienta permite visualizar cómo el tiempo de ejecución de algoritmos de búsqueda, ordenamiento y búsqueda textual varía con el tamaño de los datos. Su objetivo es ser una plataforma educativa y práctica para entender las eficiencias relativas de algoritmos comunes (Búsqueda Lineal vs. Binaria; Burbuja, Quicksort, Selección, Inserción; y operador in, Expresiones Regulares, Fuerza Bruta para texto). El informe cubrirá la interfaz, la metodología de medición, la explicación de los algoritmos y la interpretación de los resultados gráficos, facilitando la comprensión de conceptos algorítmicos complejos.
+Aqui estaran los codigos dispuestos a ser usadosa para su posible compilación.
